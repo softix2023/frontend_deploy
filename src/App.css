@@ -1,0 +1,104 @@
+#root{
+  width: 100%;
+  min-height: 100vh;
+}
+.app{
+  width: 100%;
+  height: 100%;
+}
+.form-cst{
+  max-width: 680px;
+  margin: auto;
+  width: 100%;
+
+}
+.card-lst img{
+  width: 100%;
+  height: 100%;
+}
+.card-lst p{
+  font-size: 1  2px;
+}
+.card-lst h6{
+  font-size: 14px;
+  font-weight: 700;
+}
+.card-lst h5{
+  font-size: 13px;
+  font-weight: 600;
+  color: white;
+}
+.card-lst img{
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.card-lst{
+  width: 100%;
+  height: 100%;
+  max-width: 400px;
+  max-height: 225px;
+  cursor: pointer;
+  margin: 10px;
+  position: relative;
+}
+.card-inner-lst{
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.527);
+  bottom: 10px;
+  left: 10px;
+  border-radius: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 15px;
+}
+.csfesfe3{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.car-img-details{
+  width: 100%;
+  align-self: center;
+  max-width: 400px;
+  max-height: 100%;
+  border-radius: 10px;
+}
+.lst-dtl h4{
+  font-size: 15px;
+  font-weight: 700;
+}
+.lst-dtl h5{
+  font-size: 13px;
+  font-weight: 600;
+}
+.lst-dtl h6 span{
+  font-weight: 800;
+}
+.lst-dtl h6{
+  font-size: 12px;
+  font-weight: 600;
+}
+.sadweds-edw .form-group{ 
+max-width: 300px;
+width: 100%;
+margin-right: 10px;
+}
+.sadw3ena{
+  color: rgb(99, 99, 99);
+  text-decoration: none;
+}
+.sadw3ena:hover,.sadw3ena:active,.sadw3ena:focus{
+  color: rgb(99, 99, 99)!important;
+}
+
+.accordion-button,.accordion-button:active,.accordion-button:focus,.accordion-button:hover{
+  box-shadow: none;
+}
+.accordion-item{
+  border: none;
+}
+.accordion-button{
+  background-color: #7c838a!important;
+    color: white!important;
+}
